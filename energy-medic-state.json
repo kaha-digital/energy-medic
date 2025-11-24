@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "exportedAt": "2025-11-24T04:18:07.934Z",
+  "data": {
+    "business_name": "Energy Medic",
+    "tagline": "Reliable Electrical, Solar & Battery Solutions Northern Rivers",
+    "logo": {
+      "file": {},
+      "url": "blob:http://localhost:5173/0cecd0fc-283d-4d0d-b9af-b7eba8d0cbd1",
+      "filename": "EM-logo-WHITE-100px(h).png"
+    },
+    "favicon": "",
+    "phone": "+61425261148",
+    "email": "admin@energymedic.com.au",
+    "address": "Alstonville, Northern Rivers and surrounding areas",
+    "abn": "90603856417",
+    "qbcc": "",
+    "facebook": "",
+    "instagram": "",
+    "color_palette": [
+      "#61a738",
+      "#ffffff",
+      "#183332",
+      "#183332",
+      "#ffffff",
+      "#61a738",
+      "#ffffff",
+      "#f7f7f7"
+    ],
+    "font_theme": {
+      "heading": "Montserrat",
+      "body": "Open Sans"
+    },
+    "template_theme": "forge-pro",
+    "hero_headline": "Reliable Electrical, Solar & Battery Solutions",
+    "hero_cta": "Request a Quote",
+    "hero_image": {
+      "file": {},
+      "url": "blob:http://localhost:5173/73ce4b32-40f4-48e2-b36d-f9e3016fb5d9",
+      "filename": "energy-medic-hero.webp"
+    },
+    "about_headline": "Your trusted local electrical & energy specialists.",
+    "about_text": "Energy Medic provides residential and commercial electrical solutions including power, lighting, data, garden lighting, switchboard upgrades, and fault finding. We also design and install custom on-grid and off-grid solar and battery systems to deliver long-term reliable energy solutions.",
+    "about_image": {
+      "file": {},
+      "url": "blob:http://localhost:5173/8ae6db52-7507-4830-9c38-e339f837221d",
+      "filename": "energy-medic-about.webp"
+    },
+    "service1_title": "Electrical Services",
+    "service1_desc": "Power, lighting, data cabling, garden lighting and all general electrical needs.",
+    "service1_icon_svg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg width=\"48px\" height=\"48px\" viewBox=\"0 0 24 24\" stroke-width=\"1.4\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" color=\"#fff\"><path d=\"M8 15C12.8747 15 15 12.949 15 8C15 12.949 17.1104 15 22 15C17.1104 15 15 17.1104 15 22C15 17.1104 12.8747 15 8 15Z\" stroke=\"#fff\" stroke-width=\"1.4\" stroke-linejoin=\"round\"></path><path d=\"M2 6.5C5.13376 6.5 6.5 5.18153 6.5 2C6.5 5.18153 7.85669 6.5 11 6.5C7.85669 6.5 6.5 7.85669 6.5 11C6.5 7.85669 5.13376 6.5 2 6.5Z\" stroke=\"#fff\" stroke-width=\"1.4\" stroke-linejoin=\"round\"></path></svg>",
+    "service2_title": "Solar & Battery Systems",
+    "service2_desc": "Design, installation and maintenance for both on-grid and off-grid renewable systems.",
+    "service2_icon_svg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg width=\"48px\" height=\"48px\" stroke-width=\"1.4\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" color=\"#fff\"><path d=\"M23 10V14\" stroke=\"#fff\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M1 16V8C1 6.89543 1.89543 6 3 6H18C19.1046 6 20 6.89543 20 8V16C20 17.1046 19.1046 18 18 18H3C1.89543 18 1 17.1046 1 16Z\" stroke=\"#fff\" stroke-width=\"1.4\"></path><path d=\"M10.1667 9L8.5 12H12.5L10.8333 15\" stroke=\"#fff\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+    "service3_title": "Fault Finding & Upgrades",
+    "service3_desc": "Switchboard upgrades, solar/battery diagnostics and long-term system reliability checks.",
+    "service3_icon_svg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg width=\"48px\" height=\"48px\" viewBox=\"0 0 24 24\" stroke-width=\"1.4\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" color=\"#fff\"><path d=\"M3 21L13 11M18 6L15.5 8.5\" stroke=\"#fff\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M9.5 2L10.4453 4.55468L13 5.5L10.4453 6.44532L9.5 9L8.55468 6.44532L6 5.5L8.55468 4.55468L9.5 2Z\" stroke=\"#fff\" stroke-width=\"1.4\" stroke-linejoin=\"round\"></path><path d=\"M19 10L19.5402 11.4598L21 12L19.5402 12.5402L19 14L18.4598 12.5402L17 12L18.4598 11.4598L19 10Z\" stroke=\"#fff\" stroke-width=\"1.4\" stroke-linejoin=\"round\"></path></svg>",
+    "experience_headline": "Our Experience",
+    "experience_text": "Operating since 2015, Energy Medic has built a reputation for reliable electrical and renewable energy solutions with long-term client relationships at the core.",
+    "experience_image": {
+      "file": {},
+      "url": "blob:http://localhost:5173/f11f8714-339c-47c5-9683-5920007a94e6",
+      "filename": "energy-medic-services.webp"
+    },
+    "experience_bullets": [
+      "Locally owned and operated",
+      "Quality products and workmanship",
+      "Long lasting relationships with clients"
+    ],
+    "experience_summary": [
+      {
+        "text": "Years in Business",
+        "result": "15+"
+      },
+      {
+        "text": "Happy Clients",
+        "result": "100s"
+      },
+      {
+        "text": "Specialisations",
+        "result": "Electrical • Solar • Batteries"
+      }
+    ],
+    "cta_headline": "Looking for reliable energy solutions?",
+    "cta_text": "Get in touch today for electrical, solar or battery work — done right the first time.",
+    "cta_btn": "Get a Free Quote",
+    "testimonials": [
+      {
+        "text": "May I add in the scope of providing positive feedback to you and your business: You phoned back when I left a message. You discussed in detail what my work might require and did offer to discuss further with me when you came to view it. When I prompted you via text to send me the quote, you apologised in response and sent me the quote directly via email. On planning forward, you arrived to do the job when you said you would. On the day, you and your helpful offsider were very polite to me when you needed to enter the house. When you told me afterwards that you did patch up a gaping part of my sidewall roof section with silicon ‘while you were up there’ was the added bonus. All very good communication and a most excellent service. I would recommend you to anyone.",
+        "name": "JC - Lismore Heights 2019"
+      },
+      {
+        "text": "We've just had a solar and battery combination installed on our home and we couldn't be more happy with the service from these guys.\nLuke pays great attention to detail with his work and he's very passionate and knowledgeable about all things to do with solar and renewables.",
+        "name": "Tony Browne"
+      }
+    ],
+    "site_url": "https://energymedic.com.au",
+    "gallery_images": [
+      {
+        "file": {},
+        "url": "blob:http://localhost:5173/9f97663f-12ec-4fd4-907e-35b9cf8d2f70",
+        "filename": "Buckombil-Selected-4-compressed.jpg"
+      },
+      {
+        "file": {},
+        "url": "blob:http://localhost:5173/f7adf208-6b0e-40be-9215-c04b6422b798",
+        "filename": "Alston-Solar-PV-Installation-1.jpg"
+      },
+      {
+        "file": {},
+        "url": "blob:http://localhost:5173/05267eb2-61c2-4bca-a29f-f8c381600006",
+        "filename": "energy-medic-outdoor-lights-9.webp"
+      },
+      {
+        "file": {},
+        "url": "blob:http://localhost:5173/57438b20-c427-4341-b932-44ea16ce8d1f",
+        "filename": "energy-medic-windmill-light.webp"
+      },
+      {
+        "file": {},
+        "url": "blob:http://localhost:5173/25a9d066-6e01-4ba4-a227-e1e9ba84293c",
+        "filename": "energy-medic-outdoor-lights-4.webp"
+      },
+      {
+        "file": {},
+        "url": "blob:http://localhost:5173/c85f4ca4-f83e-4ec5-8083-31c2d4dd192b",
+        "filename": "energy-medic-light-2.webp"
+      },
+      {
+        "file": {},
+        "url": "blob:http://localhost:5173/c7c0ffa8-0e58-40ae-be78-43b14eb0baa9",
+        "filename": "energy-medic-panels-2.webp"
+      },
+      {
+        "file": {},
+        "url": "blob:http://localhost:5173/c9699ae8-5735-4257-8b06-5fb6ac9196b2",
+        "filename": "energy-medic.webp"
+      }
+    ],
+    "gallery_headline": "Recent Projects",
+    "gallery_text": "A look at the quality installations, upgrades and renewable systems we’ve completed for local homes and businesses."
+  }
+}
